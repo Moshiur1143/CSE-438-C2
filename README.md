@@ -1,0 +1,1 @@
+Smart Plant Monitoring Robot | Team Tsukuyomi | CSE 438 Robotics Project, Section C2, University of Asia Pacific. Includes project report, presentation slides, hardware design, circuit diagrams, and implementation documentation.
