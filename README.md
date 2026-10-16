@@ -6,6 +6,8 @@ Final Presentation & Demo Videos
 
 [Click Here to View All Presentations with Demo Videos](https://github.com/Moshiur1143/CSE-438-C2/releases/tag/v1.0)
 
+https://forms.gle/FEph8aURpUkH2JdN7
+
 The final presentation files, including embedded demonstration videos, are available under Assets in our GitHub Release v1.0.
 
 Team Members and Contributions
